@@ -41,7 +41,6 @@ document.getElementById('btn-aluno3').addEventListener('click', () => {
 });
 
 
-
 // ---------- COLE AQUI O CÓDIGO DO BOTÃO 30 ----------
 document.getElementById('btn-aluno1').addEventListener('click', () => {
     // Defina os pesos para cada valor.
